@@ -1,0 +1,29 @@
+{
+  "@metadata": {
+    "authors": [
+      "iHub TO"
+    ]
+  },
+  "mw-donate-desc": "Система пожертвований.",
+  "mw-donate-targets": "",
+  "mw-donate-comment-placeholder": "Введите комментарий...",
+  "mw-donate-payment-pc": "Яндекс.Деньги",
+  "mw-donate-payment-ac": "Банковская карта",
+  "mw-donate-payment-mc": "Мобильный телефон",
+  "mw-donate-sum-placeholder": "Укажите сумму перевода...",
+  "mw-donate-to-yandex": "Перевод средств на Yandex.Money",
+  "mw-donate-to-yandex-desc-sum": "Укажите сумму перевода в рублях.",
+  "mw-donate-to-yandex-desc-comment": "Введите комментарий.",
+  "mw-donate-to-yandex-desc-payment-type": "Выберите способ перевода средств (кошелёк Яндекс.Деньги / банковская карта / мобильный телефон).",
+  "mw-donate-to-card": "Перевод средств на карту",
+  "mw-donate-to-card-desc": "Переведите средства на указанный номер карты.",
+  "mw-donate-to-paypal": "Перевод средств на счёт PayPal",
+  "mw-donate-to-paypal-desc": "Перейдите по ссылке для осуществления перевода средств на счёт PayPal.",
+  "mw-donate-to-bitcoin": "Перевод средств на кошелёк Bitcoin",
+  "mw-donate-to-bitcoin-desc": "Переведите средства на указанный номер Bitcoin.",
+  "mw-donate-to-ethereum": "Перевод средств на кошелёк Ethereum",
+  "mw-donate-to-ethereum-desc": "Переведите средства на указанный номер Ethereum.",
+  "mw-donate-to-monero": "Перевод средств на кошелёк Monero",
+  "mw-donate-to-monero-desc": "Переведите средства на указанный номер Monero.",
+  "mw-donate-submit": "Перевести"
+}
